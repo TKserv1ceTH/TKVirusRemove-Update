@@ -1,0 +1,2 @@
+1.0.3
+https://yourserver.com/path/to/VAR_Tool_Update.exe
