@@ -1,2 +1,2 @@
 2.0.1
-https://www.mediafire.com/file/zd2exn684n9sfa4/TKVirusRemove_v2.0.1.exe/file
+https://github.com/TKserv1ceTH/VAR-Tool/releases/download/v2.0.1/VAR.Tool.exe
