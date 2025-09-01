@@ -1,5 +1,6 @@
-2.2.1
-https://github.com/TKserv1ceTH/VAR-Tool/releases/download/v2.2.2/VAR_2.2.1_SETUP.exe
+2.2.2
+https://github.com/TKserv1ceTH/VAR-Tool/releases/download/v2.2.2/VAR_2.2.2_SETUP.exe
+
 
 
 
