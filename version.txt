@@ -1,2 +1,2 @@
-3.0.1
-https://github.com/TKserv1ceTH/VAR-Tool/releases/download/3.0.1/VAR.Tool.3.0.1.zip
+3.0.0
+https://github.com/TKserv1ceTH/VAR-Tool/releases/download/3.0.0/VAR.Tool.3.0.0.zip
